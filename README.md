@@ -7,7 +7,6 @@
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
 
-
 <!--Start Intro-->               
 <p align="left"> Data Scientist with hands-on experience in data analysis and predictive modeling through academic and personal projects. My technical stack includes Python (Pandas, NumPy, Scikit-learn), data visualization tools (Matplotlib, Seaborn), and SQL for data management and querying.
 
@@ -22,8 +21,10 @@ I am seeking an opportunity to contribute and continue learning in a professiona
 <p align="left">
   <img src="https://komarev.com/ghpvc/?
 </p>
+
     
 ---
+
     
 ## 🛠️ Tools and Technologies
 
