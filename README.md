@@ -51,7 +51,7 @@ I am seeking an opportunity to contribute and continue learning in a professiona
 
 ## 🚀 Featured Projects 
 
-- 📦 [Retail Demand Forecasting](https://github.com/Julianmarania/Machine_Learning_Based_Demand_Forecasting): Demand Prediction in the Retail Sector Using Real Walmart Data.
+- 📦 [Retail Demand Forecasting](https://github.com/Jmajado/Machine_Learning_Based_Demand_Forecasting): Demand Prediction in the Retail Sector Using Real Walmart Data.
 
 ---
 
